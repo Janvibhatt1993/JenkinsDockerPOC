@@ -1,0 +1,25 @@
+===================LOGS================
+21-Dec-22 10:00:50 PM  Calling Main Function
+21-Dec-22 10:01:41 PM  User is inside main function
+21-Dec-22 10:02:27 PM  No error in a Test case execution
+
+21-Dec-22 10:02:27 PM  Calling Main Function
+21-Dec-22 10:02:54 PM  User is inside main function
+21-Dec-22 10:03:17 PM  No error in a Test case execution
+
+21-Dec-22 10:03:17 PM  Calling Main Function
+21-Dec-22 10:03:23 PM  User is inside main function
+21-Dec-22 10:04:19 PM  No error in a Test case execution
+
+21-Dec-22 10:04:19 PM  Calling Main Function
+21-Dec-22 10:04:41 PM  User is inside main function
+21-Dec-22 10:05:48 PM  No error in a Test case execution
+
+21-Dec-22 10:05:48 PM  Calling Main Function
+21-Dec-22 10:05:56 PM  User is inside main function
+21-Dec-22 10:07:45 PM  No error in a Test case execution
+
+21-Dec-22 10:07:45 PM  Calling Main Function
+21-Dec-22 10:07:49 PM  User is inside main function
+21-Dec-22 10:08:12 PM  No error in a Test case execution
+

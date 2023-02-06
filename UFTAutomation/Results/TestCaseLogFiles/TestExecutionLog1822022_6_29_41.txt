@@ -1,0 +1,12 @@
+===================LOGS================
+2/18/2022 6:29:44 AM  Calling Main Function
+2/18/2022 6:29:44 AM  Calling login function
+2/18/2022 6:29:45 AM  No error in a Test case execution
+
+2/18/2022 6:29:48 AM  Calling Main Function
+2/18/2022 6:29:48 AM  Calling login function
+2/18/2022 6:29:51 AM  Calling Main Function
+2/18/2022 6:29:51 AM  Calling login function
+2/18/2022 6:29:56 AM  Calling Main Function
+2/18/2022 6:29:56 AM  Calling login function
+2/18/2022 6:31:15 AM  Calling login function

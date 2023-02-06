@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE configuration []>
+<!-- This template is used to generate the LogStorageDescription.xml file.
+	-->
+<storage version="1">
+	<format name="Log.StorageFormat.XML">
+		<configuration>
+			<param name="Version" value="1.0" />
+			<param name="FileName" value="LogStorage.xml" />
+			<param name="FileIndexName" value="LogStorage.idx" />
+		</configuration>
+	</format>
+</storage>

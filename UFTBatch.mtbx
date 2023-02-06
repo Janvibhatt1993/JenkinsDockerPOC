@@ -1,0 +1,6 @@
+<Mtbx>
+	<Test name ="AzureIntegrationAIScript" path="D:\Automation\UFToneAzureDevops\AzureIntegrationAIScript" 
+	reportPath="D:\UFTOneAzureDevops\UFTResult"></Test>
+	<Test name ="AIAdvantageOnlineShopping" path="D:\Automation\UFToneAzureDevops\AIAdvantageOnlineShopping" 
+	reportPath="D:\UFTOneAzureDevops\UFTResult"></Test>
+</Mtbx>
